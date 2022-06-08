@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: doks.smart.sd/sitemap.xml
+Sitemap: https://doks.smart.sd/sitemap.xml

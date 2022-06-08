@@ -1,2 +1,3 @@
+baseurl = "doks.smart.sd"
+
 canonifyURLs = true
-baseurl = "https://doks.smart.sd"
